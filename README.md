@@ -1,3 +1,3 @@
 # Admin Dashboard Panel UI
 
-React + Typescript + vite
+React js + Typescript + vite
