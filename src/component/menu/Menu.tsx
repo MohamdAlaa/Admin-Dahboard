@@ -1,5 +1,5 @@
 import "./menu.scss";
-import { menu } from '../../data'
+import { menu } from '../../data';
 import { Link } from "react-router-dom";
 const Menu = () => {
   return (
@@ -12,9 +12,9 @@ const Menu = () => {
               <img src={listItem.icon} alt="" />
               <span className="listItemTitle">{listItem.title}</span>
             </Link>
-          ))}
+          ))};
         </div>
-      ))}
+      ))};
     </div>
   )
   
