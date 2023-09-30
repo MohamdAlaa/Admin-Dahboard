@@ -12,7 +12,7 @@ const Menu = () => {
               <img src={listItem.icon} alt="" />
               <span className="listItemTitle">{listItem.title}</span>
             </Link>
-          ))};
+          ))}
         </div>
       ))};
     </div>
